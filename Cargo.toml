@@ -1,8 +1,13 @@
 [package]
 name = "os_template"
 version = "0.1.0"
-authors = ["Jan Růžička <jan.ruzicka01@gmail.com>"]
 edition = "2018"
+
+license = "MIT"
+authors = ["Jan Růžička <jan.ruzicka01@gmail.com>"]
+
+description = "Template of a simple OS"
+repository = "https://github.com/ruza-net/os_template"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
